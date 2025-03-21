@@ -12,5 +12,5 @@
  <img aling="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgnacioDrako&theme=github_dark&layout=compact"/>
 <p><img aling="center" src="https://github-readme-stats.vercel.app/api?username=IgnacioDrako&show_icons=true&locale=en&theme=github_dark" alt="IgnacioDrako" /></p>
  
- ![Serpiente gif](https://github.com/NaviStarp/IgnacioDrako/blob/output/github-snake-dark.svg)
+ ![Serpiente gif](https://github.com/IgnacioDrako/IgnacioDrako/blob/output/github-snake-dark.svg)
 </div>
